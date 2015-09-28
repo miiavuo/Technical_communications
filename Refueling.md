@@ -13,8 +13,10 @@ Your car needs fuel to run. To keep the car running, you must refuel it before t
  
  3. Open the fuel tank filler cap.
  4. Pay for the fuel.
+  * Insert your credit card or banknote.
+  * Dial your PIN if prompted.
  5. Select the correct fuel hose. If you are unsure which fuel to select, consult your owner's manual.
  **WARNING:**
 > Refuelling your car with the wrong type of fuel may cause engine failure.
 
- 6. Insert the fuel hose into the fuel tank and squeeze the trigger.
+ 6. Insert the fuel hose into the fuel tank and squeeze the trigger to fill up.
